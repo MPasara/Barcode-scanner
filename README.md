@@ -38,7 +38,7 @@ A lightweight, single-screen iOS app built with SwiftUI and UIKit integration th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/swiftui-barcode-scanner.git
+   git clone https://github.com/MPasara/Barcode-scanner
    cd swiftui-barcode-scanner
    ```
 
